@@ -1,2 +1,4 @@
 # AlgoExpert-Answers
-Most done in C++
+Answers in C++
+
+Everything is solved to its optimal space and time 
