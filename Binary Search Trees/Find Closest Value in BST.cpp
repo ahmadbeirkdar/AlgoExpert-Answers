@@ -9,7 +9,6 @@ public:
 };
 
 bool isCloser(int val, int curr, int a);
-// test
 // Time O(nlogn) 
 // Space O(1)
 int findClosestValueInBst(BST *tree, int target) {
